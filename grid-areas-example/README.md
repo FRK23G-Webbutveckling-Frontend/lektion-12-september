@@ -12,6 +12,8 @@ Layout 1: (se assets i detta repo, _layout-1-assets_) https://www.figma.com/file
 
 ## Artiklar
 
+Färg generator: https://coolors.co/
+
 CSS Grid guide: https://css-tricks.com/snippets/css/complete-guide-grid/
 
 CSS Grid cheatsheet: https://learncssgrid.com/
